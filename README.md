@@ -5,7 +5,7 @@
 
 To build a classification methodology to predict whether a website is a phishing website on the basis of given set of predictors. 
 ### Architecture of the total ML flow:
-  https://snipboard.io/1RO9pL.jpg
+  ![Architecture_Flow](https://user-images.githubusercontent.com/80168505/180273839-377f38ce-102a-4f8a-984c-b586cdf6ff11.png)
 
 ### Data Description
 This dataset describes the differet parmaeters to judge whether a website is a phishing website.
