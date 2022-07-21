@@ -1,14 +1,14 @@
 
-# Phising website Detection
+# Phishing website Detection
 
 ## Problem Statement:
 
-To build a classification methodology to predict whether a website is a phising website on the basis of given set of predictors. 
+To build a classification methodology to predict whether a website is a phishing website on the basis of given set of predictors. 
 ### Architecture of the total ML flow:
   https://snipboard.io/1RO9pL.jpg
 
 ### Data Description
-This dataset describes the differet parmaeters to judge whether a website is a phising website.
+This dataset describes the differet parmaeters to judge whether a website is a phishing website.
 The dataset consists of different columns with all the informations, using which we need to determine that the website is a phising website or not.
 Our client had provided us the raw data files in batches, which we need to validate, transform and then use to build theclassification model.
 
